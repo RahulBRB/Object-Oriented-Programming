@@ -1,4 +1,4 @@
-const person = {
+const person = { //Object example
   firstName: "John",
   lastName: "Doe",
   age: 30,
