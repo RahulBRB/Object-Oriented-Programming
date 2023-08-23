@@ -1,4 +1,4 @@
-function Person(firstName, lastName, age) {
+function Person(firstName, lastName, age) { //basic constructor 
   this.firstName = firstName;
   this.lastName = lastName;
   this.age = age;
