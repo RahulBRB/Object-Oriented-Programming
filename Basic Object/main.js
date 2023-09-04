@@ -1,4 +1,4 @@
-const person = { //Object example
+const person = { //This is how you make a simple object
   firstName: "John",
   lastName: "Doe",
   age: 30,
